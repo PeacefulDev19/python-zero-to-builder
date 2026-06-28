@@ -1,6 +1,6 @@
 # Python 30-Day Sprint 🐍
 
-I processed 10 million tokens of research—Reddit threads, GitHub stars, and university curricula—to build the ultimate, zero-fluff path to Python mastery. No paid courses, no tutorial hell, just pure project-based learning.
+I processed approximately 9 million tokens of research—Reddit threads, GitHub stars, and university curricula—to build the ultimate, zero-fluff path to Python mastery. No paid courses, no tutorial hell, just pure project-based learning.
 
 ![Token Research Data](https://i.ibb.co/NgCBKFGf/Screenshot-2026-06-27-21-47-23.png)
 
